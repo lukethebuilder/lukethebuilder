@@ -38,4 +38,3 @@ Finishing up Informatics @ IU Bloomington → joining Genesys full-time as a PM 
 ## 📊 Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lukethebuilder&theme=dark&hide_border=true&layout=compact)
-![Visitors](https://komarev.com/ghpvc/?username=lukethebuilder&color=E8613C&style=flat)
