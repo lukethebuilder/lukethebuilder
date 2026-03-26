@@ -1,6 +1,9 @@
 # Hey, I'm Luke 👋
 
-I build things — games, tools, and projects that interest me. 
+Graduating IU Bloomington • PM Intern @ Genesys • building things on the side.
+
+## 📍 Currently
+Finishing up CS @ IU Bloomington → joining Genesys full-time as a PM in May.
 
 ## 🔨 What I'm building
 
