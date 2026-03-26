@@ -1,6 +1,6 @@
 # Hey, I'm Luke 👋
 
-Graduating IU Bloomington • PM Intern @ Genesys • building things on the side.
+Graduating IU Bloomington • PM Intern @ Genesys
 
 ## 📍 Currently
 Finishing up Informatics @ IU Bloomington → joining Genesys full-time as a PM in May.
@@ -37,4 +37,4 @@ Finishing up Informatics @ IU Bloomington → joining Genesys full-time as a PM 
 
 ## 📊 Stats
 
-![Luke's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukethebuilder&show_icons=true&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=lukethebuilder&theme=dark&hide_border=true)
