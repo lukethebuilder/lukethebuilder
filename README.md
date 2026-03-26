@@ -3,11 +3,11 @@
 Graduating IU Bloomington • PM Intern @ Genesys • building things on the side.
 
 ## 📍 Currently
-Finishing up CS @ IU Bloomington → joining Genesys full-time as a PM in May.
+Finishing up Informatics @ IU Bloomington → joining Genesys full-time as a PM in May.
 
 ## 🔨 What I'm building
 
-- **[mars-today](https://github.com/lukethebuilder/mars-today)** — Daily raw photos from NASA's Curiosity rover. Built with Supabase, Vite, and NASA's public APIs.
+- **[mars-today](https://github.com/lukethebuilder/mars-today)** — Daily raw photos from NASA's Curiosity rover. Built with Supabase, Vite, and NASA's public APIs. → **[Live site](https://lukethebuilder.github.io/mars-today/)**
 
 ## 🛠 Tech I use
 
