@@ -9,6 +9,11 @@ Finishing up Informatics @ IU Bloomington → joining Genesys full-time as a PM 
 
 - **[mars-today](https://github.com/lukethebuilder/mars-today)** — Daily raw photos from NASA's Curiosity rover. Built with Supabase, Vite, and NASA's public APIs. → **[Live site](https://lukethebuilder.github.io/mars-today/)**
 
+## 🌱 Learning & Experiments
+Projects built while learning new tools and concepts.
+
+- **[conversational-calculator-agent](https://github.com/lukethebuilder/conversational-calculator-agent)** — CLI chatbot that chats normally and calls a custom calculator tool when math is needed. Built with LangChain, LangGraph, and the OpenAI API.
+
 ## 🛠 Tech I use
 
 **Languages**
