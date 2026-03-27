@@ -14,6 +14,7 @@ Projects built while learning new tools and concepts.
 
 - **[conversational-calculator-agent](https://github.com/lukethebuilder/conversational-calculator-agent)** — CLI chatbot that chats normally and calls a custom calculator tool when math is needed. Built with LangChain, LangGraph, and the OpenAI API.
 - **[ai-resume-critiquer](https://github.com/lukethebuilder/ai-resume-critiquer)**  — Streamlit web app that reads your resume (PDF or TXT) and gives AI-powered feedback. Built with Streamlit and the OpenAI API.
+- **[ai-image-classifier](https://github.com/lukethebuilder/ai-image-classifier)** — Streamlit web app that classifies images using a pre-trained MobileNetV2 model and returns the top 3 predictions with confidence score. Built with TensorFlow and Streamlit.
 
 ## 🛠 Tech I use
 
