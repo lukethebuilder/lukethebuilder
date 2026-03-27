@@ -13,6 +13,7 @@ Finishing up Informatics @ IU Bloomington → joining Genesys full-time as a PM 
 Projects built while learning new tools and concepts.
 
 - **[conversational-calculator-agent](https://github.com/lukethebuilder/conversational-calculator-agent)** — CLI chatbot that chats normally and calls a custom calculator tool when math is needed. Built with LangChain, LangGraph, and the OpenAI API.
+- **[ai-resume-critiquer](https://github.com/lukethebuilder/ai-resume-critiquer)**  — Streamlit web app that reads your resume (PDF or TXT) and gives AI-powered feedback. Built with Streamlit and the OpenAI API.
 
 ## 🛠 Tech I use
 
