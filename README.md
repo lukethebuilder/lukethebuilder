@@ -12,6 +12,7 @@ Finishing up Informatics @ IU Bloomington → joining Genesys full-time as a PM 
 ## 🌱 Learning & Experiments
 Projects built while learning new tools and concepts.
 
+- **[python-rag-agent](https://github.com/lukethebuilder/python-rag-agent)** — RAG pipeline that ingests PDFs and answers questions using vector search. Built with OpenAI, Qdrant, Inngest, FastAPI, and Streamlit.
 - **[conversational-calculator-agent](https://github.com/lukethebuilder/conversational-calculator-agent)** — CLI chatbot that chats normally and calls a custom calculator tool when math is needed. Built with LangChain, LangGraph, and the OpenAI API.
 - **[ai-resume-critiquer](https://github.com/lukethebuilder/ai-resume-critiquer)**  — Streamlit web app that reads your resume (PDF or TXT) and gives AI-powered feedback. Built with Streamlit and the OpenAI API.
 - **[ai-image-classifier](https://github.com/lukethebuilder/ai-image-classifier)** — Streamlit web app that classifies images using a pre-trained MobileNetV2 model and returns the top 3 predictions with confidence score. Built with TensorFlow and Streamlit.
@@ -41,6 +42,8 @@ Projects built while learning new tools and concepts.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 **AI & ML**
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat&logo=qdrant&logoColor=white)
+![Inngest](https://img.shields.io/badge/Inngest-000000?style=flat&logo=inngest&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logo=groq&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
