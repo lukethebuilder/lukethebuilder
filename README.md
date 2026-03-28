@@ -49,7 +49,3 @@ Projects built while learning new tools and concepts.
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-
-## 📊 Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lukethebuilder&theme=dark&hide_border=true&layout=compact)
