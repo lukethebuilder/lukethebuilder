@@ -3,7 +3,7 @@
 Graduating IU Bloomington • PM Intern @ Genesys
 
 ## 📍 Currently
-Finishing up Informatics @ IU Bloomington → joining Genesys full-time as a PM in May.
+Finishing up Informatics @ IU Bloomington → joining Genesys full-time as a Project Manager in May.
 
 ## 🔨 What I'm building
 
@@ -13,6 +13,7 @@ Finishing up Informatics @ IU Bloomington → joining Genesys full-time as a PM 
 Projects built while learning new tools and concepts.
 
 - **[python-rag-agent](https://github.com/lukethebuilder/python-rag-agent)** — RAG pipeline that ingests PDFs and answers questions using vector search. Built with OpenAI, Qdrant, Inngest, FastAPI, and Streamlit.
+- **[asl-letter-recognition](https://github.com/lukethebuilder/asl-letter-recognition)** — Real-time ASL letter classifier using a webcam. Fine-tuned MobileNetV2 on 87k images, MediaPipe for hand detection, dwell-to-commit spelling UI. Built with TensorFlow, MediaPipe, and OpenCV.
 - **[stock-predictor](https://github.com/lukethebuilder/stock-predictor)** — Daily BUY/DON'T BUY signal for the S&P 500 using a Random Forest model trained on 30+ years of historical data. Built with scikit-learn, yfinance, and Streamlit.
 - **[conversational-calculator-agent](https://github.com/lukethebuilder/conversational-calculator-agent)** — CLI chatbot that chats normally and calls a custom calculator tool when math is needed. Built with LangChain, LangGraph, and the OpenAI API.
 - **[ai-resume-critiquer](https://github.com/lukethebuilder/ai-resume-critiquer)**  — Streamlit web app that reads your resume (PDF or TXT) and gives AI-powered feedback. Built with Streamlit and the OpenAI API.
@@ -51,3 +52,4 @@ Projects built while learning new tools and concepts.
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat&logo=google&logoColor=white)
